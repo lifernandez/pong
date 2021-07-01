@@ -4,6 +4,8 @@
 
 import turtle
 
+# adding a comment here
+
 wn = turtle.Screen()
 wn.title("Pong by Lifernandez")
 wn.bgcolor("black")
